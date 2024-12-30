@@ -3,7 +3,7 @@ console.log("Hello World!")
 
 const rollNumber = 9
 let Name = "Surender Dabur"
-var email = "skd@gmail.com" // Prefer not to use var because of issue in block scope and functional scope
+var email = "skd@gmail.com" //Not preferred to use var because of issue in block scope and functional scope
 subject = "CSE"
 let section;
 
